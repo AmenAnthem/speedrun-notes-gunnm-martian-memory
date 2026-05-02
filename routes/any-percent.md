@@ -589,6 +589,7 @@ loose fight
 ### City
 - up, up, up, door
 - upgrade, buy repair/plasma kits, save
+- equip blade and combat parts
 - up, up, up, cutscene
 #### Zuoh 2
 spam plasma
@@ -596,10 +597,10 @@ spam plasma
 - kill enemies, cutscene, right door, cutscene
 
 ### Cave
-- up, drop, right, up, drop, left
-- second from left, up, drop,
+- up, drop, left, up
+- second from left, up, drop
 - down right, first from right, up, drop
-- first from left, cutscene
+- first from left, up, cutscene
 #### Brain Queen
 spam plasma
 - cutscene
