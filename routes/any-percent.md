@@ -380,8 +380,7 @@ spam block, counter with punch
 #### Barzarld
 spam plasma / punch
 - cutscene, left, left, up, cutscene
-- left, talk to deckman
-- right, right, up, cutscene, door
+- right, up, cutscene, door
 - kill enemy, left, up, cutscene, right, up, cutscene
 - door, kill enemies, left, kill enemies, left,
 - up, cutscene, left, left, up, cutscene, door
@@ -395,7 +394,7 @@ wait for no block, spam plasma
 
 ### Repair Shop
 - cutscene, floor 1, leave, cutscene, leave repair shop
-- go to street middle down (directly below repair shop)
+- go to street (middle down directly below repair shop)
 
 ### Street
 - right, up, downstairs, up left, down right, cutscene
@@ -427,7 +426,7 @@ wait for no block, spam plasma
 ## Act 7
 ### Inspectorate
 - cutscene, option 2, leave, down, leave lab
-- go to bluw sky park (top right)
+- go to blue sky park (top right)
 
 ### Blue Sky Park
 - cutscene, equip blade and combat parts
@@ -502,7 +501,7 @@ spam plasma
 - cutscene
 
 ### Yale Garden
-- cutsecene, left, left, cutscene
+- cutscene, left, left, cutscene
 - right, right down, leave garden
 - go to embassy (left)
 
@@ -542,8 +541,7 @@ spam plasma nova against dogs, spam block, counter with punch against berserker
 spam plasma
 - cutscene, leave, left, left, left, door, use book
 - cutscene, leave, right, right, door, cutscene
-- leave, left, cutscene, right, door, cutscene
-- left, left, cutscene
+- leave, left, cutscene
 - right, down right, down, down, down
 - talk to Limeira, up, up, up, up left, left
 - cutscene, option 2, cutscene
@@ -599,7 +597,9 @@ spam plasma
 
 ### Cave
 - up, drop, right, up, drop, left
-- second from left, up, first from right, up, cutscene
+- second from left, up, drop,
+- down right, first from right, up, drop
+- first from left, cutscene
 #### Brain Queen
 spam plasma
 - cutscene
