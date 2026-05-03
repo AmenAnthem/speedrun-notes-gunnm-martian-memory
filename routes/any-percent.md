@@ -542,6 +542,7 @@ spam plasma
 - cutscene, leave, left, left, left, door, use book
 - cutscene, leave, right, right, door, cutscene
 - leave, left, cutscene
+- right, door, cutscene, leave
 - right, down right, down, down, down
 - talk to Limeira, up, up, up, up left, left
 - cutscene, option 2, cutscene
